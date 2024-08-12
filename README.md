@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Pavan-r-shetty/images/blob/main/DALL%C2%B7E%202024-01-04%2014.52.33%20-%20A%20dynamic%20and%20futuristic%20background%20image%20for%20a%20website%20with%20themes%20of%20F1%20racing%2C%20Automation%2C%20Robotics%2C%20Wearable%20Assistive%20Robotic%20Devices%2C%20Machine%20Le.png"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-r-shetty&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-r-shetty" /> </p>
 
-- 🔭 I’m currently working on [Deep Learning based Ankle Exoskeleton Control](https://drive.google.com/file/d/1a5dbSOyBbcQM4jYlrNVPogyu4FkLIkTj/view?usp=drive_link)
+- 🔭 I’m currently working on [Deep Learning based Ankle Exoskeleton Control](https://drive.google.com/file/d/1a5dbSOyBbcQM4jYlrNVPogyu4FkLIkTj/view?usp=drive_link). I am also building Chatbots for Customer Service Assistance using Django framework.
 
 - 👨‍💻 All of my projects are available at [https://pavan-r-shetty.github.io/](https://pavan-r-shetty.github.io/)
 
